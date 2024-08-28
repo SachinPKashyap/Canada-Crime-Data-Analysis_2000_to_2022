@@ -1,6 +1,7 @@
 **Insights**
 
 This PowerBI dashboard visualizes data related to property crimes in Ontario from 2016 to 2022. Here are a few points of analysis:
+![image](https://github.com/user-attachments/assets/f220dc85-7e52-47e4-a62b-84b1ed566cb8)
 
 **Total Population vs. Incidents:**
 
