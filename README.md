@@ -16,6 +16,8 @@ Only 5.12% of the total incidents are classified as unfounded, with the remainin
 The most common type of property crime is theft under $5,000, contributing 0.56 million incidents.
 Other major categories include fraud (0.35 million) and motor vehicle theft (0.17 million).
 
+![image](https://github.com/user-attachments/assets/ed9e0797-1479-4e50-8923-488b764b3572)
+
 **Youth vs. Adult Charges:**
 
 Adults are charged significantly more often than youth for most crimes.
